@@ -139,11 +139,8 @@ mode.outline.color = #434346
 editor.fgcolor = #C8C8C8
 editor.bgcolor = #1e1e1e
 
-editor.gradient.top = #122535
-
-editor.gradient.bottom = #020408
-
-
+editor.gradient.top = #2D2D30
+editor.gradient.bottom = #2D2D30
 
 
 # highlight for the current line
