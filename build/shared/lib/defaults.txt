@@ -108,7 +108,7 @@ editor.window.height.min.windows = 530
 #editor.font.macosx = Monaco,plain,10
 # trying for a built-in, consistent monospace for 2.0
 #editor.font = processing.mono,plain,12
-editor.font.family = Source Code Pro
+editor.font.family = Consolas
 editor.font.size = 12
 
 # To reset everyone's default, replaced editor.antialias with editor.smooth 
@@ -236,27 +236,27 @@ editor.laf.linux = javax.swing.plaf.nimbus.NimbusLookAndFeel
 # For an explanation of these tags, see Token.java:
 # processing/app/src/processing/app/syntax/Token.java
 
-editor.token.function1.style = #006699,plain
-editor.token.function2.style = #006699,plain
-editor.token.function3.style = #669900,plain
-editor.token.function4.style = #006699,bold
+editor.token.function1.style=#C8C8C8,plain
+editor.token.function2.style=#C8C8C8,plain
+editor.token.function3.style=#569CD6,plain
+editor.token.function4.style=#C8C8C8,bold
 
-editor.token.keyword1.style = #33997e,plain
-editor.token.keyword2.style = #33997e,plain
-editor.token.keyword3.style = #669900,plain
-editor.token.keyword4.style = #d94a7a,plain
-editor.token.keyword5.style = #e2661a,plain
-editor.token.keyword6.style = #33997e,plain
+editor.token.keyword1.style=#569CD6,plain
+editor.token.keyword2.style=#C8C8C8,plain
+editor.token.keyword3.style=#B8D7A3,plain
+editor.token.keyword4.style=#B8D7A3,plain
+editor.token.keyword5.style=#569CD6,plain
+editor.token.keyword6.style=#C8C8C8,plain
 
-editor.token.literal1.style = #7D4793,plain
-editor.token.literal2.style = #718a62,plain
+editor.token.literal1.style=#DADADA,plain
+editor.token.literal2.style=#DADADA,plain
 
-editor.token.operator.style = #006699,plain
+editor.token.operator.style=#b4b4b4,plain
 
-editor.token.label.style = #666666,bold
+editor.token.label.style=#C8C8C8,bold
 
-editor.token.comment1.style = #666666,plain
-editor.token.comment2.style = #666666,plain
+editor.token.comment1.style=#57A64A,plain
+editor.token.comment2.style=#57A64A,plain
 
 editor.token.invalid.style = #666666,bold
 
